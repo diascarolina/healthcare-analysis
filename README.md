@@ -17,11 +17,11 @@
 <a name="intro"></a>
 # Introduction
 
-Brazil's pubicly funded healthcare system, SUS (Sistema Único de Saúde), is the largest nondiscriminatory government-run public health care system in the world. The system is entirely free of any cost at the point of service for any person, including foreigners.[[1]](https://en.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde)
+Brazil's publicly funded healthcare system, SUS (Sistema Único de Saúde), is the largest nondiscriminatory government-run public health care system in the world. The system is entirely free of any cost at the point of service for any person, including foreigners.[[1]](https://en.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde)
 
 With this in mind, we'll take a look and analyze some datasets from the brazilian public healthcare system, using a "top-down" approach, meaning that we´ll look first in the aspects of the entire country and move on to analyze a specific region (the Northeastern one) and finally change our focus to only one state, the State of Ceará.
 
-> The main notebook with the full analysis and code can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/projeto-modulo1.ipynb) (in Portuguese).
+> The main notebook with the full analysis and code can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/healthcare-analysis.ipynb) (in Portuguese).
 
 > A PDF summary of the analysis can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/other/analise_sus.pdf) (also in Portuguese). This contains all the text and charts from the main notebook, but none of the code and data cleaning steps, as I felt the code for these parts was becoming too extensive for a quick view.
 
@@ -47,24 +47,30 @@ A detailed description of each dataset and its meaning is also provided in the o
 
 <a name="method"></a>
 # Methodology
-We'll proceed in a top-down approach, meaning we will start at the highest level, the country level, and go down focusing on the Northeastern region of Brazil and then on the State of Ceará, comparing its main city and capital, Fortaleza, with the sum of all the other 183 municipalities.
+We'll proceed in a top-down approach, meaning we will start at the highest level, the country level, and go down focusing on the Northeastern region of Brazil and then on the State of Ceará, comparing its main city and capital, Fortaleza, with the sum of all the other 183 municipalities. Exactly like in the image below:
+
+<p align="center">
+  <img width="700" src="https://github.com/diascarolina/healthcare-analysis/blob/main/other/mapagif.gif">
+</p>
 
 The data was first loaded, then cleaned in order to be analyzed graphically using various charts, giving us a better view of what we have in the datasets.
 
-With this, we were able to obtain many statistics about the relevant variables observed.
+With this, we were able to obtain many statistics about the relevant variables observed, as seen in the [Conclusion](#concl).
 
 <a name="tech"></a>
 # Technologies Used
 
-![](https://github.com/diascarolina/healthcare-analysis/blob/main/other/gif.gif)
+<p align="center">
+  <img src="https://github.com/diascarolina/healthcare-analysis/blob/main/other/gif.gif">
+</p>
 
 The main .ipynb notebook was produced in Jupyter Lab using Python 3.8.5, mainly for its flexibility and number of features.
 The libraries used were:
 - Pandas, the backbone of data analysis in Python, used to manipulate datasets;
 - Numpy, for manipulation of numpoy arrays;
-- Mtplotlib, for the plotting of the charts;
+- Matplotlib, for the plotting of the charts;
 - Locale, this was used to change the locale to portuguese in order to use the datetime library correctly;
-- Datatime, to convert the dates.
+- Datetime, to convert the dates.
 
 <a name="concl"></a>
 # Conclusion
@@ -119,6 +125,7 @@ This project was proposed as a first project in the Alura's Data Science Bootcam
 
 <a name="refs"></a>
 # References
+- [[1] Sistema Único de Saúde](https://en.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde)
 - [DATASUS](https://datasus.saude.gov.br/)
 - [TABNET](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
 - [Alura](https://www.alura.com.br/)
