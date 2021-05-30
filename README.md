@@ -120,7 +120,11 @@ This project was proposed as a first project in the Alura's Data Science Bootcam
 - [Applied Data Science Bootcamp](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas)
 - [Storytelling with Data](https://www.storytellingwithdata.com/)
 - [Storytelling with Data in Python](https://github.com/empathy87/storytelling-with-data#:~:text=storytelling%2Dwith%2Ddata%20(Python%20%2B%20matplotlib),-http%3A%2F%2Fwww&text=The%20book%20storytelling%20with%20data,pivotal%20point%20in%20your%20story.)
-- The documentation of the libraries used
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- Banner photo by [Martha Dominguez de Gouveia](https://unsplash.com/@mdominguezfoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
 
 <a name="contac"></a>
 # Contact
