@@ -123,7 +123,7 @@ This project was proposed as a first project in the Alura's Data Science Bootcam
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
-- Banner photo by [Martha Dominguez de Gouveia](https://unsplash.com/@mdominguezfoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Banner photo by [Martha Dominguez de Gouveia](https://unsplash.com/@mdominguezfoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/nMyM7fxpokE)
   
 
 <a name="contac"></a>
