@@ -17,7 +17,7 @@
 <a name="intro"></a>
 # Introduction
 
-Brazil's pubicly funded healthcare system, SUS (Sistema Único de Saúde), is the largest nondiscriminatory government-run public health care system in the world. The system is entirely free of any cost at the point of service for any person, including foreigners.[[1]](https://en.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde)
+Brazil's publicly funded healthcare system, SUS (Sistema Único de Saúde), is the largest nondiscriminatory government-run public health care system in the world. The system is entirely free of any cost at the point of service for any person, including foreigners.[[1]](https://en.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde)
 
 With this in mind, we'll take a look and analyze some datasets from the brazilian public healthcare system, using a "top-down" approach, meaning that we´ll look first in the aspects of the entire country and move on to analyze a specific region (the Northeastern one) and finally change our focus to only one state, the State of Ceará.
 
