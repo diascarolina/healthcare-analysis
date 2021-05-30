@@ -23,7 +23,7 @@ With this in mind, we'll take a look and analyze some datasets from the brazilia
 
 > The main notebook with the full analysis and code can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/projeto-modulo1.ipynb) (in Portuguese).
 
-> A PDF summary of the analysis can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/other/an%C3%A1lise-do-sus.pdf) (also in Portuguese). This contains all the text and charts from the main notebook, but none of the code and data cleaning steps, as I felt the code for these parts was becoming too extensive for a quick view.
+> A PDF summary of the analysis can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/other/analise_sus.pdf) (also in Portuguese). This contains all the text and charts from the main notebook, but none of the code and data cleaning steps, as I felt the code for these parts was becoming too extensive for a quick view.
 
 <a name="dt"></a>
 # Data
