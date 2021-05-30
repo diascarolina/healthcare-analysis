@@ -1,8 +1,20 @@
 # Brazilian Public Healthcare Data Analysis
-[<img src="https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square"/>](https://github.com/diascarolina)
+[<img src="https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square"/>](https://github.com/diascarolina) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square)](https://github.com/diascarolina/healthcare-analysis/blob/main/LICENSE)
 
 ![](https://raw.githubusercontent.com/diascarolina/healthcare-analysis/main/other/banner.png?token=AH6WME6YO5QSXJPZKTOZKWDAXL5HG)
 
+# Table of Contents
+
+- [Introduction](#intro)
+- [Data](#dt)
+- [Methodology](#method)
+- [Technologies Used](#tech)
+- [Conclusion](#concl)
+- [Acknowledgments](#ack)
+- [References](#refs)
+- [Contact](#contac)
+
+<a name="intro"></a>
 # Introduction
 
 Brazil's pubicly funded healthcare system, SUS (Sistema Único de Saúde), is the largest nondiscriminatory government-run public health care system in the world. The system is entirely free of any cost at the point of service for any person, including foreigners.[[1]](https://en.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde)
@@ -11,6 +23,7 @@ With this in mind, we'll take a look and analyze some datasets from the brazilia
 
 > The main notebook can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/projeto-modulo1.ipynb) (in Portuguese)
 
+<a name="dt"></a>
 # Data
 The data used in this analysis was directly obtained from the official website [DATASUS](https://datasus.saude.gov.br/) on the week of May 22 to May 29 of 2021.
 The raw datasets can be found [here](https://github.com/diascarolina/healthcare-analysis/tree/main/data). Please note that the data is constatly being updated, that's why is importante to keep the versions used for the analysis.
@@ -30,6 +43,7 @@ All this data ranges from January 2008 to March 2021.
 
 A detailed description of each dataset and its meaning is also provided in the official DATASUS website at [Notas Técnicas (Technical Notes)](http://tabnet.datasus.gov.br/cgi/sih/Proced_hosp_loc_int_2008.pdf)
 
+<a name="method"></a>
 # Methodology
 We'll proceed in a top-down approach, meaning we will start at the highest level, the country level, and go down focusing on the Northeastern region of Brazil and then on the State of Ceará, comparing its main city and capital, Fortaleza, with the sum of all the other 183 municipalities.
 
@@ -37,7 +51,8 @@ The data was first loaded, then cleaned in order to be analyzed graphically usin
 
 With this, we were able to obtain many statistics about the relevant variables observed.
 
-# Technologies
+<a name="tech"></a>
+# Technologies Used
 The main .ipynb notebook was produced in Jupyter Lab using Python 3.8.5, mainly for its flexibility and number of features.
 The libraries used were:
 - Pandas, the backbone of data analysis in Python, used to manipulate datasets;
@@ -46,6 +61,7 @@ The libraries used were:
 - Locale, this was used to change the locale to portuguese in order to use the datetime library correctly;
 - Datatime, to convert the dates.
 
+<a name="concl"></a>
 # Conclusion
 After the analysis, we have arrived at the following conclusions:
 
@@ -92,20 +108,25 @@ Here we can really grasp the diverging amount of money spent in Fortaleza agains
 - The average price per hospital admission in Fortaleza is 1 537.72 BRL;
 - The average price per hospital admission in the other 183 municipalities is 380.28 BRL.
 
+<a name="ack"></a>
 # Acknowledgments
 This project was proposed as a first project in the Alura's Data Science Bootcamp, acting as an introduction to the world of Python to obtain insights from data.
 
+<a name="refs"></a>
 # References
-Datasus tabnet
-Alura
-Bootcamp
-Storytelling livro
-Storytelling github
-Documentation
+- [DATASUS](https://datasus.saude.gov.br/)
+- [TABNET](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
+- [Alura](https://www.alura.com.br/)
+- [Applied Data Science Bootcamp](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas)
+- [Storytelling with Data](https://www.storytellingwithdata.com/)
+- [Storytelling with Data in Python](https://github.com/empathy87/storytelling-with-data#:~:text=storytelling%2Dwith%2Ddata%20(Python%20%2B%20matplotlib),-http%3A%2F%2Fwww&text=The%20book%20storytelling%20with%20data,pivotal%20point%20in%20your%20story.)
+- The documentation of the libraries used
 
-
+<a name="contac"></a>
 # Contact
 
+Any tips or suggestions? Feel free to contact me!
 
+[<img src="https://img.shields.io/badge/carodias-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carodias/) [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:carolinadiasw@gmail.com)
 
 
