@@ -119,6 +119,7 @@ This project was proposed as a first project in the Alura's Data Science Bootcam
 
 <a name="refs"></a>
 # References
+- [[1] Sistema Único de Saúde](https://en.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde)
 - [DATASUS](https://datasus.saude.gov.br/)
 - [TABNET](http://www2.datasus.gov.br/DATASUS/index.php?area=02)
 - [Alura](https://www.alura.com.br/)
