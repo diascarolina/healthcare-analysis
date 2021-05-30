@@ -43,7 +43,7 @@ The datasets chosen were as follows:
 
 All this data ranges from January 2008 to March 2021.
 
-A detailed description of each dataset and its meaning is also provided in the official DATASUS website at [Notas Técnicas (Technical Notes)](http://tabnet.datasus.gov.br/cgi/sih/Proced_hosp_loc_int_2008.pdf)
+A detailed description of each dataset and its meaning is also provided in the official DATASUS website at [Notas Técnicas (Technical Notes)](http://tabnet.datasus.gov.br/cgi/sih/Proced_hosp_loc_int_2008.pdf).
 
 <a name="method"></a>
 # Methodology
