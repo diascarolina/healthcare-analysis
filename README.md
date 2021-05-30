@@ -21,7 +21,9 @@ Brazil's pubicly funded healthcare system, SUS (Sistema Único de Saúde), is th
 
 With this in mind, we'll take a look and analyze some datasets from the brazilian public healthcare system, using a "top-down" approach, meaning that we´ll look first in the aspects of the entire country and move on to analyze a specific region (the Northeastern one) and finally change our focus to only one state, the State of Ceará.
 
-> The main notebook can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/projeto-modulo1.ipynb) (in Portuguese)
+> The main notebook with the full analysis and code can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/projeto-modulo1.ipynb) (in Portuguese).
+
+> A PDF summary of the analysis can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/other/an%C3%A1lise-do-sus.pdf) (also in Portuguese). This contains all the text and charts from the main notebook, but none of the code and data cleaning steps, as I felt the code for these parts was becoming too extensive for a quick view.
 
 <a name="dt"></a>
 # Data
@@ -53,6 +55,9 @@ With this, we were able to obtain many statistics about the relevant variables o
 
 <a name="tech"></a>
 # Technologies Used
+
+![](https://github.com/diascarolina/healthcare-analysis/blob/main/other/gif.gif)
+
 The main .ipynb notebook was produced in Jupyter Lab using Python 3.8.5, mainly for its flexibility and number of features.
 The libraries used were:
 - Pandas, the backbone of data analysis in Python, used to manipulate datasets;
