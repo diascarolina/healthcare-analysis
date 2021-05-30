@@ -50,12 +50,12 @@ A detailed description of each dataset and its meaning is also provided in the o
 We'll proceed in a top-down approach, meaning we will start at the highest level, the country level, and go down focusing on the Northeastern region of Brazil and then on the State of Ceará, comparing its main city and capital, Fortaleza, with the sum of all the other 183 municipalities. Exactly like in the image below:
 
 <p align="center">
-  <img width="700" src="https://github.com/diascarolina/healthcare-analysis/blob/main/other/map.png">
+  <img width="700" src="https://github.com/diascarolina/healthcare-analysis/blob/main/other/mapagif.gif">
 </p>
 
 The data was first loaded, then cleaned in order to be analyzed graphically using various charts, giving us a better view of what we have in the datasets.
 
-With this, we were able to obtain many statistics about the relevant variables observed.
+With this, we were able to obtain many statistics about the relevant variables observed, as seen in the [Conclusion](#concl).
 
 <a name="tech"></a>
 # Technologies Used
