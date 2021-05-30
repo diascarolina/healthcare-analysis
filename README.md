@@ -47,7 +47,11 @@ A detailed description of each dataset and its meaning is also provided in the o
 
 <a name="method"></a>
 # Methodology
-We'll proceed in a top-down approach, meaning we will start at the highest level, the country level, and go down focusing on the Northeastern region of Brazil and then on the State of Ceará, comparing its main city and capital, Fortaleza, with the sum of all the other 183 municipalities.
+We'll proceed in a top-down approach, meaning we will start at the highest level, the country level, and go down focusing on the Northeastern region of Brazil and then on the State of Ceará, comparing its main city and capital, Fortaleza, with the sum of all the other 183 municipalities. Exactly like in the image below:
+
+<p align="center">
+  <img width="700" src="https://github.com/diascarolina/healthcare-analysis/blob/main/other/map.png">
+</p>
 
 The data was first loaded, then cleaned in order to be analyzed graphically using various charts, giving us a better view of what we have in the datasets.
 
@@ -56,15 +60,17 @@ With this, we were able to obtain many statistics about the relevant variables o
 <a name="tech"></a>
 # Technologies Used
 
-![](https://github.com/diascarolina/healthcare-analysis/blob/main/other/gif.gif)
+<p align="center">
+  <img src="https://github.com/diascarolina/healthcare-analysis/blob/main/other/gif.gif">
+</p>
 
 The main .ipynb notebook was produced in Jupyter Lab using Python 3.8.5, mainly for its flexibility and number of features.
 The libraries used were:
 - Pandas, the backbone of data analysis in Python, used to manipulate datasets;
 - Numpy, for manipulation of numpoy arrays;
-- Mtplotlib, for the plotting of the charts;
+- Matplotlib, for the plotting of the charts;
 - Locale, this was used to change the locale to portuguese in order to use the datetime library correctly;
-- Datatime, to convert the dates.
+- Datetime, to convert the dates.
 
 <a name="concl"></a>
 # Conclusion
