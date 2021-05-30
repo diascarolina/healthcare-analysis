@@ -21,7 +21,7 @@ Brazil's pubicly funded healthcare system, SUS (Sistema Único de Saúde), is th
 
 With this in mind, we'll take a look and analyze some datasets from the brazilian public healthcare system, using a "top-down" approach, meaning that we´ll look first in the aspects of the entire country and move on to analyze a specific region (the Northeastern one) and finally change our focus to only one state, the State of Ceará.
 
-> The main notebook with the full analysis and code can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/projeto-modulo1.ipynb) (in Portuguese).
+> The main notebook with the full analysis and code can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/notebooks/healthcare-analysis.ipynb) (in Portuguese).
 
 > A PDF summary of the analysis can be found [here](https://github.com/diascarolina/healthcare-analysis/blob/main/other/analise_sus.pdf) (also in Portuguese). This contains all the text and charts from the main notebook, but none of the code and data cleaning steps, as I felt the code for these parts was becoming too extensive for a quick view.
 
