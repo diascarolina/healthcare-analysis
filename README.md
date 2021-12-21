@@ -3,6 +3,8 @@
 
 ![](https://raw.githubusercontent.com/diascarolina/healthcare-analysis/main/other/banner.png?token=AH6WME6YO5QSXJPZKTOZKWDAXL5HG)
 
+[Project Live Presentation (in Portuguese)](https://youtu.be/An8KhgrsRJM?t=2738)
+
 # Table of Contents
 
 - [Introduction](#intro)
